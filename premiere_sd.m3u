@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="107" tvg-name="Premiere 1 SD" tvg-logo="http://www.fontedecanais.gs/logos/canais/premiere.png" group-title="Premiere",Premiere 1 SD
+http://64.31.23.207:80/96795792/50165825/3460211.m3u8
+#EXTINF:-1 tvg-id="Premiere 2 SD" tvg-name="Premiere 2 SD" tvg-logo="http://www.fontedecanais.gs/logos/canais/premiere.png" group-title="Premiere",Premiere 2 SD
+http://64.31.23.207:80/96795792/50165825/3460214.m3u8
+#EXTINF:-1 tvg-id="Premiere 3 SD" tvg-name="Premiere 3 SD" tvg-logo="http://www.fontedecanais.gs/logos/canais/premiere.png" group-title="Premiere",Premiere 3 SD
+http://64.31.23.207:80/96795792/50165825/3460217.m3u8
+#EXTINF:-1 tvg-id="Premiere 4 SD" tvg-name="Premiere 4 SD" tvg-logo="http://www.fontedecanais.gs/logos/canais/premiere.png" group-title="Premiere",Premiere 4 SD
+http://64.31.23.207:80/96795792/50165825/3460220.m3u8
+#EXTINF:-1 tvg-id="Premiere 5 SD" tvg-name="Premiere 5 SD" tvg-logo="http://www.fontedecanais.gs/logos/canais/premiere.png" group-title="Premiere",Premiere 5 SD
+http://64.31.23.207:80/96795792/50165825/3460223.m3u8
+#EXTINF:-1 tvg-id="Premiere 6 SD" tvg-name="Premiere 6 SD" tvg-logo="http://www.fontedecanais.gs/logos/canais/premiere.png" group-title="Premiere",Premiere 6 SD
+http://64.31.23.207:80/96795792/50165825/3460226.m3u8
+#EXTINF:-1 tvg-id="Premiere 7 SD" tvg-name="Premiere 7 SD" tvg-logo="http://www.fontedecanais.gs/logos/canais/premiere.png" group-title="Premiere",Premiere 7 SD
+http://64.31.23.207:80/96795792/50165825/3460229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 SD" tvg-logo="http://www.fontedecanais.gs/logos/canais/premiere.png" group-title="Premiere",Premiere 8 SD
+http://64.31.23.207:80/96795792/50165825/3460232.m3u8
